@@ -1,0 +1,15 @@
+{
+  "name": "factsbot",
+  "version": "1.0.0",
+  "description": "factsbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^5.12.1",
+    "twit": "^2.2.10"
+  }
+}
