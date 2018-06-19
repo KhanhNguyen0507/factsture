@@ -1,0 +1,8 @@
+{
+    "name": "facts true",
+    "description": "facts true abc",
+    "repository": "https://github.com/KhanhNguyen0507/factsture.git",
+    "logo": "https://yt3.ggpht.com/-vrDJV05mY6o/AAAAAAAAAAI/AAAAAAAAAAA/wFLZ0bLe0Ls/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "keyworks": ["node", "firebase-admin", "twit"],
+    "image": "heroku/nodejs"
+}
