@@ -42,4 +42,4 @@ var searchTweet = function() {
 // grab & retweet as soon as program is running...
 searchTweet();
 // searchTweet in every 50 minutes
-setInterval(searchTweet, 10000);
+// setInterval(searchTweet, 10000);
